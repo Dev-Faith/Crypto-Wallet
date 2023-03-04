@@ -13,6 +13,7 @@ const Wallets = () => {
     <img src="/Image/terra.png" alt="terra wallet" />
     <img src="/Image/phantom.jpeg" alt="phantom wallet" />
     <img src="/Image/cosmos.png" alt="Cosmos wallet" />
+    <img src="/Image/exodus.png" alt="exodous wallet" />
     
     </div>
       
