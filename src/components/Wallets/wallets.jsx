@@ -1,5 +1,6 @@
 import './wallets.css'
 import { RiSettings5Fill } from 'react-icons/ri';
+import Footer from "../../components/footer/footer";
 
 const Wallets = () => {
   return (
@@ -20,6 +21,17 @@ const Wallets = () => {
     <img src="/Image/Argent.jpeg" alt="Argent Wallet" />
     <img src="/Image/metamask.png" alt="Metamask Wallet" />
     <img src="/Image/Binance.png" alt="Binance Wallet" />
+    <img src="/Image/safemoon-safemoon-logo.png" alt="safemoon Wallet" />
+    <img src="/Image/gnosis.png" alt="Gnosis Wallet" />
+    <img src="/Image/Defi.jpeg" alt="Defi Wallet" />
+    <img src="/Image/pillar.jpeg" alt="Pillar Wallet" />
+    <img src="/Image/Imtoken.jpeg" alt="Imtoken Wallet" />
+    <img src="/Image/onto.jpeg" alt="OnTo Wallet" />
+    <img src="/Image/tokenpocket.png" alt="TokenPocket Wallet" />
+    <img src="/Image/aave-aave-logo.png" alt="Aave Wallet" />
+    <img src="/Image/digitex.png" alt="Digitex Wallet" />
+    
+
     
     
     </div>
