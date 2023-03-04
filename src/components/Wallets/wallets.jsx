@@ -9,9 +9,10 @@ const Wallets = () => {
     <div classNme="wallet-crypto-image">
     <img src="/Image/brd.jpg" alt="BRD wallet" />
     <img src="/Image/Coinbaselogo_Supplied_250x250-2.png" alt="BRD wallet" />
-    <img src="/Image/saitama.png" alt="BRD wallet" />
-    <img src="/Image/terra.png" alt="BRD wallet" />
-    <img src="/Image/phantom.jpeg" alt="BRD wallet" />
+    <img src="/Image/saitama.png" alt="saitama wallet" />
+    <img src="/Image/terra.png" alt="terra wallet" />
+    <img src="/Image/phantom.jpeg" alt="phantom wallet" />
+    <img src="/Image/cosmos.png" alt="Cosmos wallet" />
     
     </div>
       
