@@ -16,6 +16,11 @@ const Wallets = () => {
     <img src="/Image/exodus.png" alt="exodous wallet" />
     <img src="/Image/wallet connect.png" alt="Connect Wallet" />
     <img src="/Image/Rainbow.png" alt="Rainbow Wallet" />
+    <img src="/Image/trust.jpeg" alt="Trust Wallet" />
+    <img src="/Image/Argent.jpeg" alt="Argent Wallet" />
+    <img src="/Image/metamask.png" alt="Metamask Wallet" />
+    <img src="/Image/Binance.png" alt="Binance Wallet" />
+    
     
     </div>
       
