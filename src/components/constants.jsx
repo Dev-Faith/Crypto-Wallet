@@ -188,6 +188,11 @@ export const cardInfo = [
     id: 19,
     title: "Other's",
   },
+  {
+    src: <RiSmartphoneLine className="card-icon" />,
+    id: 19,
+    title: "Complain",
+  },
 ];
 
 {
