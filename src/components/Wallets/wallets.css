@@ -1,0 +1,17 @@
+.wallet {
+   /* display: flex;
+    flex-direction: colun;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2rem; */
+    background-color: #ffffff;
+    color: black;
+}
+
+.wallet text{
+    color: black;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+
+}

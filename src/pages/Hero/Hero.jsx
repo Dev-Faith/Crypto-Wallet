@@ -69,7 +69,7 @@ const Hero = () => {
             <div className="distribution">
               <h1>
                 {counterOn && (
-                  <CountUp start={0} end={50} duration={2} delay={0} />
+                  <CountUp start={0} end={75} duration={2} delay={0} />
                 )}
                 k+
               </h1>
@@ -78,7 +78,7 @@ const Hero = () => {
             <div className="distribution">
               <h1>
                 {counterOn && (
-                  <CountUp start={0} end={200} duration={2} delay={0} />
+                  <CountUp start={0} end={350} duration={2} delay={0} />
                 )}
                 k+
               </h1>
@@ -87,7 +87,7 @@ const Hero = () => {
             <div className="distribution">
               <h1>
                 {counterOn && (
-                  <CountUp start={0} end={100} duration={2} delay={0} />
+                  <CountUp start={0} end={200} duration={2} delay={0} />
                 )}
                 +
               </h1>
